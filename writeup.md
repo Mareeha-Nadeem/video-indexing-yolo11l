@@ -1,0 +1,11 @@
+data/
+.cache/
+yolo11l.pt
+results.jsonl
+half1.jsonl
+train-*.jsonl
+*.parquet
+*.mp4
+__pycache__/
+venv/
+*.zip
